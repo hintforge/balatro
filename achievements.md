@@ -5,7 +5,7 @@
 **stub_source:** Stage 0: third-party PlayStation trophy list minus the Platinum. Confirmed in P1 ingestion 2026-10-19 against the TrueAchievements Xbox/Windows list (31 names, all read) and the Steam achievements page (header "31 achievements", 15 of 31 names rendered; all 15 match).
 **stub_fetched:** 2026-10-19
 **stub_count:** 31
-**live_recount:** 2026-10-19, live total 31, name sets equal (31 expected, 31 listed, 0 missing, 0 extra). Receipt: `research_briefs/achievement_completeness_check.md`. The Steam page itself rendered only 15 names in two reads and one more attempt; the full-name comparison rests on the TrueAchievements list, which states 31 achievements and 1,000 Gamerscore. PlayStation adds a 32nd, "Platinum" (not on Steam).
+**live_recount:** 2026-10-19, live total 31, name sets equal (31 expected, 31 listed, 0 missing, 0 extra). The Steam page itself rendered only 15 names in two reads and one more attempt; the full-name comparison rests on the TrueAchievements list, which states 31 achievements and 1,000 Gamerscore. PlayStation adds a 32nd, "Platinum" (not on Steam).
 **coverage:** 31 entries; 25 resolved, 6 deferred (mastery entries with no strategy claim in the research; see each entry). 0 unreachable.
 
 ## Why this file exists

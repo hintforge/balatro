@@ -10,4 +10,4 @@ Lookup hub for things the run collects. All four category files are populated fr
 - `upgrades.md` -- the 32 Vouchers, 8 enhancements, 4 seals, editions, hand levels
 - `builds.md` -- the 15 decks (modifier and unlock) and Joker / deck / hand-type builds, with where guides disagree
 
-Skip Tags (24) are listed in `../mechanics.md` (Shop section) rather than here; they are skip rewards, not consumables or vouchers. Weapons, ammo and crafting materials are absent in this game (see `../research_briefs/stage0_priors.md`).
+Skip Tags (24) are listed in `../mechanics.md` (Shop section) rather than here; they are skip rewards, not consumables or vouchers. Weapons, ammo and crafting materials are absent in this game.
